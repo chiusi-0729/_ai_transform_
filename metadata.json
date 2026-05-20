@@ -1,0 +1,6 @@
+{
+  "name": "AI 會議記錄生成與翻譯工具",
+  "description": "一鍵將會議逐字稿與重點筆記生成結構化會議記錄、決議要點與行動清單，並提供多國語言翻譯服務。",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
